@@ -79,7 +79,7 @@
 				},
 				"ss13BuildFlags.reparseOnLaunch": {
 					"type": "boolean",
-					"default": 0,
+					"default": 1,
 					"markdownDescription": "Whether the extension is going to ask spacemanDMM to reparse the environment upon launching. Specifically, if enabled, it will issue the `dreammaker.reparse` command."
 				}
 			}
